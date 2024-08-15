@@ -1,1 +1,1 @@
-
+This is a simple weather app that allows users to enter a city name and retrieve current weather data, including temperature, humidity, and wind speed. The app connects to the OpenWeatherMap API to fetch real-time weather information. It also features dynamic updates of weather icons based on the conditions (like rain or clear skies) and handles errors, such as invalid city names. The user interface is clean and responsive, utilizing a gradient card design, custom fonts, and intuitive search functionality.
