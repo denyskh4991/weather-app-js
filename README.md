@@ -68,4 +68,4 @@
 
 
 
-   In summary, this weather app is a practical tool that leverages modern web technologies to provide users with up-to-date weather information. Its clean design, coupled with robust functionality, makes it both aesthetically pleasing and highly usable.
+In summary, this weather app is a practical tool that leverages modern web technologies to provide users with up-to-date weather information. Its clean design, coupled with robust functionality, makes it both aesthetically pleasing and highly usable.
