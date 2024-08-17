@@ -36,7 +36,7 @@ The app uses a custom Google Font ("Poppins") for a clean and modern appearance.
    
 - HTML Structure
 
-The HTML document is structured with a main div container (card) that holds all the elements of the app, including the search bar, error message, and weather details. Semantic tags like <h1>, <h2>, and <p> are used for textual content, while images are used for weather icons.
+The HTML document is structured with a main div container (card) that holds all the elements of the app, including the search bar, error message, and weather details. Semantic tags like H1, H2, and P are used for textual content, while images are used for weather icons.
 
 - CSS Styling
 
