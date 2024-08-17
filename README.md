@@ -46,23 +46,23 @@
 
    The core logic is handled by JavaScript, which includes:
 
-checkWeather(city)
+   checkWeather(city)
 
    An asynchronous function that fetches weather data from the API, processes the response, and updates the DOM with the relevant weather information.
 
-    async function checkWeather(city) {
-      // Function implementation
-    }
+       async function checkWeather(city) {
+         // Function implementation
+       }
 
-Event Listener
+   Event Listener
 
    The app adds an event listener to the search button, triggering the checkWeather() function when the user clicks it. This allows users to search for weather data interactively.
 
-    searchBtn.addEventListener("click", ()=>{
-      // Function implementation
-    }
+       searchBtn.addEventListener("click", ()=>{
+         // Function implementation
+       }
 
-Error Handling
+   Error Handling
 
    The app includes basic error handling to manage situations where the user inputs an invalid city name. If an error occurs, the app displays a message informing the user and hides the weather data to prevent confusion.
 
