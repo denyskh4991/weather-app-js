@@ -66,4 +66,6 @@ Error Handling
 
 The app includes basic error handling to manage situations where the user inputs an invalid city name. If an error occurs, the app displays a message informing the user and hides the weather data to prevent confusion.
 
+
+
 In summary, this weather app is a practical tool that leverages modern web technologies to provide users with up-to-date weather information. Its clean design, coupled with robust functionality, makes it both aesthetically pleasing and highly usable.
